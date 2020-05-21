@@ -1,2 +1,4 @@
 # hello-world
-my first project
+my first project.
+hello everyone!
+I like piano.
